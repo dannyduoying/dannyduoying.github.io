@@ -8,13 +8,15 @@ Hello friend! My name is DuoDuo Ying (应多多). You can also call me Danny. I'
 
 I have the privilege of working with Dr. Hongquan Xu. My research focuses on space-filling designs and their applications in machine learning. Specifically, I develop space-filling designs with good projection properties and tools to better systematically rank designs.
 
-Best way to reach me is by email to dannyduoying@gmail.com.
+A copy of my CV can be found here. Best way to reach me is by email to dannyduoying@gmail.com.
 
 My research interests include:
 *   Computer Experiment
 *   Order-of-addition Experiment
 
+## Manuscripts submitted for publication or in preparation
 
+1. Ying, D.D., Xu, H. (2026+). Efficient Representation and Construction of Space-Filling Designs via a Double Stratification Enumerator
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
