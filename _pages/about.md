@@ -14,7 +14,7 @@ I have the privilege of working with Dr. Hongquan Xu. My research focuses on spa
 Best way to reach me is by email to dannyduoying@gmail.com
 
 Education
-======
+===
 - University of California, Los Angeles
   - Try
 
