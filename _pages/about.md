@@ -16,7 +16,9 @@ Best way to reach me is by email to dannyduoying@gmail.com
 Education
 ===
 - University of California, Los Angeles
-  - Try
+  - Ph.D. Statistics, 2024 - present; Advisor: Hongquan Xu.
+  - M.S. Applied Statistics, 2023;
+  - B.S. Economics, 2021; Minor in Statistics, 2021
 
 Research Interests
 ======
