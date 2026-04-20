@@ -23,7 +23,7 @@ repository               : "dannyduoying/dannyduoying.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.jpg"
   name             : "DuoDuo Danny Ying"
   pronouns         : # example: "she/her"  
   bio              : "3rd Year PhD Candidate"
