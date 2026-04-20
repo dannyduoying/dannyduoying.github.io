@@ -1,11 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hello friend! My name is DuoDuo Ying. You can also call me Danny. I'm currently a second year PhD candidate at the (amazing!) Department of Statistics and Data Science at UCLA, where I also completed the Master of Applied Statistics and Data Science (MASDS) program and my Economics major and Statistics minor. Needless to say, I'm a loyal bruin.
+
+I have the privilege of working with Dr. Hongquan Xu. My research focuses on space-filling designs and their applications in machine learning. Specifically, I develop space-filling designs with good projection properties and tools to better systematically rank designs.
+
+Best way to reach me is by email to dannyduoying@gmail.com
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
