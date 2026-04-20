@@ -13,6 +13,16 @@ I have the privilege of working with Dr. Hongquan Xu. My research focuses on spa
 
 Best way to reach me is by email to dannyduoying@gmail.com
 
+Education
+======
+- University of California, Los Angeles
+  - Try
+
+Research Interests
+======
+- Computer Experiments
+- Order-of-Addition Experiments
+
 
 Manuscripts submitted for publication or in preparation
 ======
