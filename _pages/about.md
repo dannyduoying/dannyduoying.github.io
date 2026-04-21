@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello friend! My name is DuoDuo Ying. You can also call me Danny. I'm currently a second year PhD candidate at the (amazing!) Department of Statistics and Data Science at UCLA, where I also completed the Master of Applied Statistics and Data Science (MASDS) program and my Economics major and Statistics minor. Needless to say, I'm a loyal bruin.
+Hello friend! My name is DuoDuo Ying. You can also call me Danny. I'm currently a third year PhD candidate at the (amazing!) Department of Statistics and Data Science at UCLA, where I also completed the Master of Applied Statistics and Data Science (MASDS) program and my Economics major and Statistics minor. Needless to say, I'm a loyal bruin.
 
 I have the privilege of working with Dr. Hongquan Xu. My research focuses on space-filling designs and their applications in machine learning. Specifically, I develop space-filling designs with good projection properties and tools to better systematically rank designs.
 
@@ -21,10 +21,11 @@ I have the privilege of working with Dr. Hongquan Xu. My research focuses on spa
 - Computer Experiments
 - Order-of-Addition Experiments
 
+**News and Upcoming Activities**
+- [Mar, 2026]  I had the privilege to present our project titled "Efficient Representation and Construction of Space-Filling Designs via a Double Stratification Enumerator" at UCLA Statistics Student Seminar and Social. Thanks everyone for listening and the feedback!
+- [Feb, 2025]  I just finished my Oral Exam with my supportive committee - Dr. Hongquan Xu, Dr. Qing Zhou, Dr. Yingnian Wu, and Dr. Xiaowu Dai.
 
 **Manuscripts submitted for publication or in preparation**
 - Ying, D.D. and Xu, H. (2026+). Efficient Representation and Construction of Space-Filling Designs via a Double Stratification Enumerator.
 
 
-**News**
-- Talks, etc.
